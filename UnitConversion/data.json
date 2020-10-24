@@ -1,0 +1,16 @@
+[
+  {
+    "distance": {
+      "unit": "m",
+      "value": "0.5"
+    },
+    "convert_to": "ft"
+  },
+  {
+    "distance": {
+      "unit": "sm",
+      "value": "20"
+    },
+    "convert_to": "ft"
+  }
+]
